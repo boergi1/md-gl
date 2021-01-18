@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/images/arrow-down.png</file>
+        <file>qml/images/arrow-down-white.png</file>
+        <file>qml/images/realsense_icon.png</file>
+    </qresource>
+</RCC>
